@@ -31,43 +31,32 @@ xx-super 对任何脚本问题概不负责，包括但不限于由任何脚本�
 
 任何以任何方式查看此项目的人或直接或间接使用该shadowrocket项目的任何脚本的使用者都应仔细阅读此声明。xx-super 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或shadowrocket项目的规则，则视为您已接受此免责声明.
 
-特别感谢 ：
+### 特別感謝 ：
+* [@NobyDa](https://github.com/NobyDa)
 
-@NobyDa
+* [@lhie1](https://github.com/lhie1)
 
-@lhie1
+* [@ConnersHua](https://github.com/DivineEngine)
 
-@ConnersHua
+* [@chavyleung](https://github.com/chavyleung)
 
-@chavyleung
+* [@yichahuch
+* [@NavePnow](https://github.com/NavePnow)
 
-@yichahucha
+* [@Meeta](https://github.com/MeetaGit)
 
-@langkhach270389
+* [@Neurogram-R](https://github.com/Neurogram-R)
 
-@Choler
+* [@sazs34](https://github.com/sazs34)
 
-@onewayticket255
+* [@id77](https://github.com/id77)
 
-@NavePnow
+* [@lxk0301](https://github.com/lxk0301)
 
-@Meeta
+* [@红鲤鱼与绿鲤鱼与驴](https://github.com/wangdelu2020)
 
-@Neurogram-R
+* [@iisams](https://github.com/iisams/Scripts)
 
-@sazs34
+* [@barrym-chen](https://github.com/barrym-chen/Script)
 
-@id77
-
-@lxk0301
-
-@红鲤鱼与绿鲤鱼与驴
-
-@iisams
-
-@barrym-chen
-
-@ziye12
-
-@公众号墨鱼手记
-
+* [@ziye12](https://github.com/ziye12/JavaScript)
