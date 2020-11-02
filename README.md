@@ -12,8 +12,8 @@
 * 只测试了自用脚本，其他大部分脚本没有测试.
 
 ### Shadowrocket脚本订阅 ：
-* Shadowrocket.conf（https://raw.githubusercontent.com/xx-super/shadowrocket/main/shadowrocket.conf）
-* 免费节点 （http://kufei20.herokuapp.com/）
+* [Shadowrocket.conf]（https://raw.githubusercontent.com/xx-super/shadowrocket/main/shadowrocket.conf）
+* [免费节点] （http://kufei20.herokuapp.com/）
 ### 特别感谢 ：
 * [@NobyDa](https://github.com/NobyDa)
 
