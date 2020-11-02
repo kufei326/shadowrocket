@@ -11,6 +11,8 @@
 
 * 只测试了自用脚本，其他大部分脚本没有测试.
 
+### Telegram频道：https://t.me/xhjjb
+
 ### Shadowrocket脚本订阅 ：
 * [Shadowrocket.conf](https://raw.githubusercontent.com/xx-super/shadowrocket/main/shadowrocket.conf)
 * [免费节点](http://kufei20.herokuapp.com/)
