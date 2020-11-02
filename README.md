@@ -31,7 +31,7 @@ xx-super 对任何脚本问题概不负责，包括但不限于由任何脚本�
 
 任何以任何方式查看此项目的人或直接或间接使用该shadowrocket项目的任何脚本的使用者都应仔细阅读此声明。xx-super 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或shadowrocket项目的规则，则视为您已接受此免责声明.
 
-### 特別感謝 ：
+### 特别感谢 ：
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@lhie1](https://github.com/lhie1)
@@ -40,7 +40,14 @@ xx-super 对任何脚本问题概不负责，包括但不限于由任何脚本�
 
 * [@chavyleung](https://github.com/chavyleung)
 
-* [@yichahuch
+* [@yichahucha](https://github.com/yichahucha)
+
+* [@langkhach270389](https://github.com/langkhach270389)
+
+* [@Choler](https://github.com/Choler)
+
+* [@onewayticket255](https://github.com/onewayticket255)
+
 * [@NavePnow](https://github.com/NavePnow)
 
 * [@Meeta](https://github.com/MeetaGit)
