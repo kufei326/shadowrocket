@@ -9,7 +9,7 @@ IP_ADDR=ipv4
 #cloudflare账号邮箱
 x_email=9205936@qq.com
 #完整域名
-hostname=cdn.kufei.eu.org
+hostname=de.kufei.eu.org
 #空间ID
 zone_id=5c40f0178500f24a007796ecfecc718d
 #Global API Key
