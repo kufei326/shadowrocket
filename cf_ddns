@@ -50,7 +50,7 @@ if [ "$IP_ADDR" = "ipv6" ] ; then
     ./CloudflareST $CFST_URL_R -t $CFST_T -n $CFST_N -dn $CFST_DN -tl $CFST_TL -tll $CFST_TLL -sl $CFST_SL -p $CFST_P -f ipv6.txt -ipv6
     else
     #开始优选IPv4
-    ./CloudflareST $CFST_URL_R -t $CFST_T -n $CFST_N -dn $CFST_DN -tl $CFST_TL -tll $CFST_TLL -sl $CFST_SL -p $CFST_P 
+    ./CloudflareST $CFST_URL_R -t $CFST_T -n $CFST_N -dn $CFST_DN -tl $CFST_TL -tll $CFST_TLL -sl $CFST_SL -p $CFST_P -allip
 fi
 ipAddr=$(sed -n "2,1p" result.csv | awk -F, '{print $1}')
 #开始DDNS
