@@ -686,7 +686,7 @@ class UserInfo {
     async getDeviceRoomInfo() {
         try {
             const options = {
-                url: `https://member.aliyundrive.com/v1/deviceRoom/rewardInfoToday`,
+                url: `https://member.alipan.com/v1/deviceRoom/rewardInfoToday`,
                 headers: {
                     'Content-Type': 'application/json',
                     Authorization: this.authorization,
@@ -704,7 +704,7 @@ class UserInfo {
     async getListDevice() {
         try {
             const options = {
-                url: `https://user.aliyundrive.com/v1/deviceRoom/listDevice`,
+                url: `https://user.alipan.com/v1/deviceRoom/listDevice`,
                 headers: {
                     'Content-Type': 'application/json',
                     Authorization: this.authorization,
@@ -725,7 +725,7 @@ class UserInfo {
     async getEnergyReword(e) {
         try {
             const options = {
-                url: `https://member.aliyundrive.com/v1/deviceRoom/rewardEnergy`,
+                url: `https://member.alipan.com/v1/deviceRoom/rewardEnergy`,
                 headers: {
                     'Content-Type': 'application/json',
                     Authorization: this.authorization,
